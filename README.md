@@ -21,7 +21,7 @@
 # Project Setup 📂
 
 ✅Clone the repository:
-  git clone https://github.com/your-username/spotify-clone.git
+  git clone https://github.com/vibinson05/Spotify-Clone.git
   cd spotify-clone
 
 # Install dependencies:
