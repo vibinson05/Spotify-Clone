@@ -1,7 +1,6 @@
 ﻿# Spotify Clone 🎵
 
- A Spotify Clone built using React + Vite, styled with Tailwind CSS, and integrated with the Gemini API 
- for enhanced recommendations. This project delivers a modern, fast, and responsive music streaming experience.
+ A Spotify Clone built using React + Vite, styled with Tailwind CSS,  This project delivers a modern, fast, and responsive music streaming experience.
 
  #Features 🚀
 
@@ -14,7 +13,6 @@
 # Tech Stack 🛠
 
 ✅ Frontend: React, Vite, Tailwind CSS
-✅ API Integration: Gemini API
 ✅ Development Tools: VS Code, Git/GitHub, Postman (for API testing)
 ✅ Deployment: Netlify / Vercel (if deployed)
 
